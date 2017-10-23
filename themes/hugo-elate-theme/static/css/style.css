@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -368,7 +368,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0s;
 }
 
-#fh5co-home {
+.no-webp #fh5co-home {
+  background-image: url("/images/tower-bridge-evening.jpg");
   background-color: transparent;
   background-size: cover;
   background-attachment: fixed;
@@ -378,6 +379,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   overflow: hidden;
 }
+
+.webp #fh5co-home{
+  background-image: url("/images/tower-bridge-evening.webp");
+}
+
 #fh5co-home .gradient {
   position: absolute;
   top: 0;
