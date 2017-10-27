@@ -1,5 +1,5 @@
 #FreeCodeCamp Sacramento - freecodecamp-sacramento.github.io
-
+[![Build Status](https://travis-ci.org/FreeCodeCamp-Sacramento/fccsac.svg?branch=dev)](https://travis-ci.org/FreeCodeCamp-Sacramento/fccsac)
 ![alt text][banner]
 
 [banner]: ./fccsac-banner.jpg "FreeCodeCamp Sacramento"
